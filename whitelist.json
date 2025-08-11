@@ -1,26 +1,25 @@
 {
-  "products": [
-    {
-      "product_name": "Vocovo",
-      "gamepass_id": 1338226754,
-      "price": 250,
-      "role_id": "1399115299860516955",
-      "whitelist": [
-        2486818607,
-        4698383340, 
-        716369883 
-      ]
-    },
-    {
-      "product_name": "Starter Bundle",
-      "gamepass_id": 1336926534,
-      "price": 600,
-      "role_id": "1401238487319056435",
-      "whitelist": [
-        3456028202,
-        2486818607
-      ]
-    }
-  ],
-  "blacklist": []
+    "products": [
+        {
+            "product_name": "Vocovo",
+            "gamepass_id": 1338226754,
+            "price": 250,
+            "role_id": "1399115299860516955",
+            "whitelist": [
+                2486818607,
+                4698383340
+            ]
+        },
+        {
+            "product_name": "Starter Bundle",
+            "gamepass_id": 1336926534,
+            "price": 600,
+            "role_id": "1401238487319056435",
+            "whitelist": [
+                3456028202,
+                2486818607
+            ]
+        }
+    ],
+    "blacklist": []
 }
