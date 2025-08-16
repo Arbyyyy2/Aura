@@ -9,7 +9,8 @@
                 2486818607,
                 4698383340,
                 2484934400
-            ]
+            ], 
+            "revoked": [] 
         },
         {
             "product_name": "Starter Bundle",
@@ -19,7 +20,8 @@
             "whitelist": [
                 2486818607,
                 3456028202
-            ]
+            ], 
+            "revoked": [] 
         }
     ],
     "blacklist": []
